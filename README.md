@@ -1,4 +1,4 @@
-# bppimt_bot
+# IRCTC-Chatbot
 
 A new Flutter project.
 
